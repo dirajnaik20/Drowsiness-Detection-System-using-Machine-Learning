@@ -6,6 +6,15 @@ Welcome to the DriverAlert System repository! This project aims to enhance road 
 
 Driver fatigue is a leading cause of accidents worldwide, resulting in countless mishaps and casualties. The DriverAlert System offers a proactive solution to combat this issue. By leveraging a combination of hardware and software, it monitors the driver's behavior and alerts them when signs of drowsiness or distraction are detected.
 
+
+<div align="center">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/fdfac775-4b8b-45e6-97d6-c2afee78f742" width="200" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/f968e054-90c1-48d6-adea-ba4c46115129" width="200" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/914febc7-81da-4934-a61e-4d27853c633b" width="200" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/d0660164-0786-4c5d-92e1-80e199da2f95" width="200" hspace="20">
+</div>
+
+
 ## Features 🌟
 
 - **Real-time Monitoring**: Constantly monitors the driver's face and behavior using a Raspberry Pi camera.

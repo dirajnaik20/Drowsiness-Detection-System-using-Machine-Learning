@@ -8,10 +8,10 @@ Driver fatigue is a leading cause of accidents worldwide, resulting in countless
 
 
 <div align="center">
-  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/fdfac775-4b8b-45e6-97d6-c2afee78f742" width="100" hspace="20">
-  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/f968e054-90c1-48d6-adea-ba4c46115129" width="100" hspace="20">
-  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/914febc7-81da-4934-a61e-4d27853c633b" width="100" hspace="20">
-  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/d0660164-0786-4c5d-92e1-80e199da2f95" width="100" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/fdfac775-4b8b-45e6-97d6-c2afee78f742" width="150" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/f968e054-90c1-48d6-adea-ba4c46115129" width="150" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/914febc7-81da-4934-a61e-4d27853c633b" width="150" hspace="20">
+  <img src="https://github.com/dirajnaik20/News-App/assets/80588596/d0660164-0786-4c5d-92e1-80e199da2f95" width="150" hspace="20">
 </div>
 
 
